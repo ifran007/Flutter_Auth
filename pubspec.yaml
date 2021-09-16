@@ -1,0 +1,22 @@
+name: flutter_auth
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^0.15.0+1
+  provider: ^3.1.0+1
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  test:
+  mockito:
+  rxdart:
+  flutter_automation: any
+  version:
+flutter:
+  uses-material-design: true
